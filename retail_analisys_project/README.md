@@ -1,3 +1,3 @@
 # Анализ программы лояльности магазина.
 
-[ipynb](#Анализпрограммылояльностимагазина)
+[ipynb](retail_analisys_project/retail_analysis.ipynb)
