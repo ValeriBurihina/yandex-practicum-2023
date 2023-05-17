@@ -1,6 +1,6 @@
 # Анализ программы лояльности магазина
 
-[ipynb](/retail_analisys_project/retail_analysis.ipynb) [html](/retail_analisys_project/retail_analysis_sns.html) [dashboard](https://public.tableau.com/views/purchases_dinamic/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[ipynb](/retail_analisys_project/retail_analysis.ipynb) [html](/retail_analisys_project/retail_analysis_sns.html) [dashboard](https://public.tableau.com/views/purchases_dinamic/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) [presentation](https://disk.yandex.ru/i/s1VSdLtF3anSpg)
 
 ## Описание проекта
 
