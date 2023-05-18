@@ -1,6 +1,6 @@
 # Анализ программы лояльности магазина
 
-[ipynb](/sql-final-project/sql-final-project.ipynb) [html](/retail_analisys_project/retail_analysis_sns.html) 
+[ipynb](/sql-final-project/sql_final_project.ipynb) [html](/retail_analisys_project/retail_analysis_sns.html) 
 
 ## Описание проекта
 
