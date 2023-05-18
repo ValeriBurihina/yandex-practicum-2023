@@ -1,4 +1,4 @@
-# Анализ программы лояльности магазина
+# Исследование базы данных с помощью SQL
 
 [ipynb](/sql-final-project/sql_final_project.ipynb) [html](/retail_analisys_project/retail_analysis_sns.html) 
 
