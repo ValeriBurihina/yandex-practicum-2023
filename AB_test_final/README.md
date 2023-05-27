@@ -2,7 +2,7 @@
 
 # Оценка результатов A/B-теста
 
-[ipynb](/AB_test_final/AB_test_final_project.ipynb) [html](https://disk.yandex.ru/d/gQD4ibWybSZMug)
+[ipynb](/AB_test_final/AB_test_final_project.ipynb) [html](/AB_test_final/AB_test_final_project.html)
 
 ## Описание проекта
 
